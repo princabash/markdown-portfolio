@@ -2,7 +2,7 @@
 
 
 ---
-layout: default
+layout: project
 ---
 
 {% include 01-name.md %}
