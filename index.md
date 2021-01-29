@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main 
 ---
 
 {% include 01-name.md %}
